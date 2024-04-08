@@ -7,14 +7,14 @@ This repository serves as an educational purpose, learning and breaking down Sup
 ## Contents
 
 - **Notebooks**: Contains Jupyter notebooks with hands-on examples, tutorials, and experiments.
-- **Scripts**: Python scripts demonstrating SVM implementation and usage.
+- **Scripts**: Scripts with helper functions.
 
 ## Getting Started
 
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/Zane-dev16/ML-Regression-Notebooks.git
+    git clone https://github.com/Zane-dev16/Support-Vector-Machines
     ```
 2. Run the notebooks in your preferred order on any compatible platform
 
